@@ -4,8 +4,10 @@
 
 ## **Projects**
 
-### **Answers**
+### [**Answers**(解答之书)](./projects/answers/app/)
 
 ![Answers-Icon](./res/Answers.jpg)
 
-[Web](./projects/answers/app/)
+### [**日本战国家纹**](https://github.com/KAndQ/Sengoku/blob/master/MAIN.md)
+
+### [**PUBG 游击队统计**](./projects/pubg_team_statistics/)
