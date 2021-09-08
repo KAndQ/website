@@ -12,4 +12,4 @@
 
 `https://github.com/KAndQ/Sengoku/blob/master/MAIN.md`
 
-### [**PUBG 游击队统计**](./projects/pubg_team_statistics/)
+### [**PUBG 游击队统计**](./projects/pubg_team_statistics/?http://localhost:4037)
