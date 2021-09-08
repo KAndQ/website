@@ -8,7 +8,7 @@
 
 ![Answers-Icon](./res/Answers.jpg)
 
-### [**日本战国家纹**]
+### **日本战国家纹**
 
 [`https://github.com/KAndQ/Sengoku/blob/master/MAIN.md`](https://github.com/KAndQ/Sengoku/blob/master/MAIN.md)
 
