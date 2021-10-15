@@ -10,4 +10,4 @@
 
 ### [**日本战国家纹**](https://github.com/KAndQ/Sengoku/)
 
-### [**普陀路游击队(PUBG)**](./projects/pubg_team_statistics/?host=http://localhost:4037)
+### [**普陀路游击队(PUBG)**](http://pubg.qxqplant.com/pubg/)
