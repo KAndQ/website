@@ -6,8 +6,6 @@
 
 ### [**解答之书**](./projects/answers/app/)
 
-![Answers-Icon](./res/Answers.jpg)
-
 ### [**日本战国家纹**](https://github.com/KAndQ/Sengoku/)
 
 ### [**普陀路游击队(PUBG)**](http://pubg.qxqplant.com/pubg/)
