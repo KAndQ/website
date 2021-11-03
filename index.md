@@ -10,6 +10,6 @@
 
 ### [**普陀路游击队(PUBG)**](http://pubg.qxqplant.com/pubg/)
 
-## **建模作业**
+## **Blender**
 
 ### [**两只黑社会小猪**](./projects/blender/two_pigs/)
