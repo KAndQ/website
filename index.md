@@ -1,4 +1,4 @@
-# Welcome To Q Floras
+# QxQPlant Studio
 
 ![img](./res/QFloras.jpg)
 
