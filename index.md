@@ -2,18 +2,18 @@
 
 ![img](./res/QFloras.jpg)
 
-## Games
+## **Games**
 
-### [**Answers**](./projects/answers/app/)
+### [Answers](./projects/answers/app/)
 
-### [**UP**](./projects/UP/)
+### [UP](./projects/UP/)
 
-## Websites
+## **Websites**
 
-### [**日本战国家纹**](https://github.com/KAndQ/Sengoku/)
+### [日本战国家纹](https://github.com/KAndQ/Sengoku/)
 
-### [**PUBG Team(Offline)**](http://pubg.qxqplant.com/pubg/)
+### [PUBG Team(Offline)](http://pubg.qxqplant.com/pubg/)
 
 ## **Blender**
 
-### [**Two Piggy**](./projects/blender/two_pigs/)
+### [Two Piggy](./projects/blender/two_pigs/)
