@@ -1,4 +1,4 @@
 
-# www.QXQPlant.com
+# www.QxQPlant.com
 
 `https://www.qxqplant.com/`
